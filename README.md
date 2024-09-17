@@ -17,8 +17,8 @@ Backend: Node.js com Express ou Django para gerenciar a lógica do servidor.
 Banco de Dados: MongoDB ou PostgreSQL para armazenar informações dos usuários e dados do conteúdo.
 Autenticação: Auth0 ou JWT para gerenciar login e segurança.
 Hospedagem: Heroku, Vercel, ou AWS para deploy e hospedagem da aplicação.
-Plano de Desenvolvimento
 
+Plano de Desenvolvimento
 Fase 1: Pesquisa e Planejamento
 
 Realizar uma pesquisa sobre as melhores práticas e recursos para saúde mental.
